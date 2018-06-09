@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LearnCocoapods"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "开发中一些比较实用的工具库"
   s.homepage     = "https://github.com/mashun/LearnCocoapods"
   s.license      = "MIT"
